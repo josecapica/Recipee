@@ -11,7 +11,7 @@
     <ul>
       <li class="recipee"> <a href="recipes/Lasagna.html">Lasagna</a></li>
       <li class="recipee"> <a href="recipes/Paella.html">Paella</a></li>
-      <li class="recipee"> >a href="recipes/Arroz-al-horno.html">Arroz al horno</a></li>
+      <li class="recipee"> <a href="recipes/Arroz-al-horno.html">Arroz al horno</a></li>
     </ul>
 </body>
 </html>
