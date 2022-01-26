@@ -1,2 +1,19 @@
-<h1> Index of recipees </h11>
-<a href="./Lasagna.html">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <tittle> The Odin-Recipees</tittle>
+</head>
+<body>
+   <h1> Capica Recipees </h1>
+   <img src="https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="chef cooking a plate">
+   Discover my best recipees
+    <ul>
+      <li class="recipee"> <a href="recipes/Lasagna.html">Lasagna</a></li>
+      <li class="recipee"> <a href="recipes/Paella.html">Paella</a></li>
+      <li class="recipee"> >a href="recipes/Arroz-al-horno.html">Arroz al horno</a></li>
+    </ul>
+</body>
+</html>
+   
+   
